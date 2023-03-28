@@ -3,3 +3,5 @@ The goal of this project was to program hardware in Verilog to compute matrix mu
 
 Input: Two 8x8 matrices of 8-bit signed numbers
 Output: A 8x8 matrix of 19-bit signed numbers
+
+Members of lab assignment: Steven Lin and Nathan Lai
